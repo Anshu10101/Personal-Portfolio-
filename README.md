@@ -1,5 +1,5 @@
 # Porfolio 
-This is my debut project utilizing Next.js, a portfolio website featuring four primary sections: Home, About, Projects, and Contact. The site is brought to life with animations powered by Framer Motion, enhanced page transitions with Fullpage.js, and styled using elements of Tailwind CSS. This project also read list of project data from a JSON file. It serves as a showcase of my web development skills and represents my initial foray into web development with Next.js.
+This portfolio website is built with Next.js and includes four main sections: Home, About, Projects, and Contact. It features animations powered by Framer Motion, smooth page transitions using Fullpage.js, and styling with Tailwind CSS. Project data is dynamically loaded from a JSON file, highlighting a modern and interactive design approach.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -90,8 +90,6 @@ The contact page allows users to get in touch with you. You can provide contact 
 
 - **Project archive:** list all of your project that dont needed to display at main project page.
 - Project details: See the main project detail by clicking the project image.
-
-Feel free to customize and expand upon these sections and subpages to suit your needs and showcase your unique skills and projects.
 
 ### Intelliticks chat widget
 
