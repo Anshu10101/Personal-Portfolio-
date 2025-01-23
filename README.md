@@ -21,12 +21,13 @@ This portfolio website is built with Next.js and includes four main sections: Ho
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/Alvalens/Alvalens-porto-2-nextJs.git
+   git clone https://github.com/Anshu10101/Personal-Portfolio-
    ```
 3. Navigate to the project directory:
 
    ```shell
-   cd Alvalens-porto-2-nextJs
+   cd Personal-Portfolio-
+
    ```
 4. Install dependencies:
 
