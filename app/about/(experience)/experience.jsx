@@ -35,6 +35,12 @@ export default function Experience() {
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
 								Node
 							</div>
+							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
+								Generative AI
+							</div>
+							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
+								AI-MLops
+							</div>
 						</div>
 					</div>
 				</div>
@@ -81,7 +87,7 @@ export default function Experience() {
 						</h4>
 						<p className="text-justify">
 							Specialized in crafting innovative solutions using
-							Laravel and Next.js, enhancing client satisfaction
+							React, Next.js and Node js, enhancing client satisfaction
 							and project efficiency. Contributed expertise in
 							both frontend and backend development during
 							collaborative team projects, leading to successful

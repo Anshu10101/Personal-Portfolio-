@@ -45,10 +45,10 @@ export default function Education() {
 							<div className="flex items-center gap-2">
 								<p className="text-justify">
 									Aspiring to be a software engineer, I am
-									currently pursuing a bachelor&rsquo;s degree
-									in computer science at Universitas Negeri
-									Malang. Fascinated by the world of
-									technology, I am eager to learn and explore
+									currently pursuing a master&rsquo;s degree
+									in computer science at SRM Institute of Science and Technology, Kattankulathur, Chennai. 
+									Fascinated by the world of
+									technology, I am eager to learn, adapt and explore
 									new things in the field of computer science.
 								</p>
 							</div>
