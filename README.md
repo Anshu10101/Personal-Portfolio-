@@ -39,24 +39,6 @@ This portfolio website is built with Next.js and includes four main sections: Ho
    ```shell
    pnpm next dev
    ```
-6. Update the Intelliticks chat widget script in components/Chat.jsx, with your own
-
-   ```javascript
-    "use client"
-    import { useEffect } from "react";
-
-    // Component for Intelliticks chat widget
-    const Chat = () => {
-    	useEffect(() => {
-    		// Replace the Intelliticks script here
-
-    	}, []);
-
-    	return null;
-    };
-
-    export default Chat;
-   ```
 7. Set env.local by copying env.example and fill the variable
 
    ```
@@ -92,6 +74,3 @@ The contact page allows users to get in touch with you. You can provide contact 
 - **Project archive:** list all of your project that dont needed to display at main project page.
 - Project details: See the main project detail by clicking the project image.
 
-### Intelliticks chat widget
-
-Enjoy chat realtime with ease using Intelliticks (https://app.intelliticks.com/)
