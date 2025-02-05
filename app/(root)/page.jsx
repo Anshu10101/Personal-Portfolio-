@@ -337,7 +337,7 @@ const MyPage = () => {
 											type: "spring",
 										}}>
 										<a href="mailto:ay839990@gmail.com?subject=Hello&body=Hello Anshul,">
-											ay839990@gmail.com
+											anshul.yadv22@gmail.com
 										</a>
 									</motion.p>
 									{/* icons */}
