@@ -99,7 +99,7 @@ export default function Page() {
 									className="w-full h-full">
 									<Image
 										src={Me1}
-										alt="Alvalens"
+										alt="Anshul"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -122,7 +122,7 @@ export default function Page() {
 									className="w-50% h-80%">
 									<Image
 										src={Me2}
-										alt="Alvalens"
+										alt="Anshul"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -147,7 +147,7 @@ export default function Page() {
 									className="w-full h-full">
 									<Image
 										src={Me3}
-										alt="Alvalens"
+										alt="Anshul"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"

@@ -111,7 +111,7 @@ export default function Education() {
 									Winner 
 								</h3>
 								<p className="text-sm">
-									At Cricket Competition
+									At University Cricket Competition
 								</p>
 							</div>
 						</div>

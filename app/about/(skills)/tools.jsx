@@ -9,15 +9,7 @@ export default function Tools() {
 				<span className="text-black font-bold">Git</span> |{" "}
 				<span className="text-black font-bold">Github</span> |{" "}
 				<span className="text-black font-medium">Figma</span> |{" "}
-				|{" "}
-				<span className="text-black font-medium">
-					
-				</span>{" "}
-				|{" "}
-				<span className="text-black font-medium">
-					
-				</span>{" "}
-				|{" "}
+				<span className="text-black font-medium">Postman</span>
 			</p>
 		</>
 	);
