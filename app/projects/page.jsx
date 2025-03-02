@@ -6,9 +6,9 @@ import Button from "@/components/Button";
 import Image from "next/legacy/image";
 
 // images
-import ReactChat1 from "@/public/projects/trivia/trivia1.png";
-import ReactChat2 from "@/public/projects/trivia/trivia2.png";
-import ReactChat3 from "@/public/projects/trivia/trivia3.png";
+import ReactChat1 from "@/public/projects/Airbnb/Airbnb1.png";
+import ReactChat2 from "@/public/projects/Airbnb/Airbnb2.png";
+import ReactChat3 from "@/public/projects/Airbnb/Airbnb3.png";
 import ProjectAll from "@/public/img/projects.png";
 
 import Hr from "@/components/Hr";
@@ -183,7 +183,7 @@ export default function Page() {
 						</p>{" "}
 						<div className="mt-3">
 							<Button variation="primary">
-								<Link href="projects/trivia">More</Link>
+								<Link href="projects/Airbnb">More</Link>
 							</Button>
 							<Button variation="secondary">
 								<a
