@@ -183,7 +183,7 @@ export default function Page() {
 						</p>{" "}
 						<div className="mt-3">
 							<Button variation="primary">
-								<Link href="projects/Airbnb">More</Link>
+								<Link href="https://github.com/Anshu10101/Airbnb-full-stack-">More</Link>
 							</Button>
 							<Button variation="secondary">
 								<a
