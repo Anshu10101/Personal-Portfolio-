@@ -8,31 +8,51 @@ import FixedButon from "@/components/FixedButton";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 const projects = [
 	{
-		year: "2020",
-		title: "School E-Learning platform",
-		tech: "PHP, Laravel, Bootstrap, MySQL, jQuery, Apache",
-		github: "https://github.com/Anshu10101/School-E-Learning-Platform",
-		preview: "",
+		year: "2025",
+		title: "TraviAI - AI Powered Travel Companion",
+		tech: "React, TailwindCSS, Google Cloud, Gemini AI, Firebase, Auth0, React Hot Toast",
+		github: "https://github.com/Anshu10101/TraviAI---AI-Powered-Travel-Companion",
+		preview: "https://travi-ai-ai-powered-travel-companion.vercel.app/",
 	},
 	{
-		year: "2023",
+		year: "2025",
+		title: "AI Powered Multi PDF Chatbot",
+		tech: "Streamlit, Google Gemini AI, Python, LangChain, PyPDF2, FAISS, Python dotenv",
+		github: "https://github.com/Anshu10101/AI-Powered-Multi-PDF-Chatbot",
+		},
+	{
+		year: "2025",
+		title: "React Task Board Application",
+		tech: "React, Javascript, TailwindCSS",
+		github: "https://github.com/Anshu10101/React-Task-Board",
+		preview: "https://react-task-board.vercel.app/",
+	},
+	{
+		year: "2024",
 		title: "Airbnb Ful stack Application",
 		tech: "React Js, Node Js, Express Js, MongoDB, TailwindCSS, JWT, Cloudinary, Google cloud",
 		github: "https://github.com/Anshu10101/Airbnb-full-stack-",
 		preview: "https://ease-nest.netlify.app/",
 	},
 	{
-		year: "2023",
+		year: "2025",
 		title: "Football Match Analysis System",
 		tech: "Python, Tensorflow, Keras, OpenCV, Numpy, Roboflow, Sickit-learn",
 		github: "https://github.com/Anshu10101/Football-Analysis-System	",
 	},
 	{
-		year: "2023",
+		year: "2024",
 		title: "React Tools Applicaiton",
 		tech: "React, Javascript, React Router, TailwindCSS",
 		github: "https://github.com/Anshu10101/React-Tools",
 		preview: "https://react-tools-two.vercel.app/",
+	},
+	{
+		year: "2020",
+		title: "School E-Learning platform",
+		tech: "PHP, Laravel, Bootstrap, MySQL, jQuery, Apache",
+		github: "https://github.com/Anshu10101/School-E-Learning-Platform",
+		preview: "",
 	},
 ];
 export default function Page () {

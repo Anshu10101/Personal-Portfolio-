@@ -336,14 +336,14 @@ const MyPage = () => {
 											delay: 0.3,
 											type: "spring",
 										}}>
-										<a href="mailto:ay839990@gmail.com?subject=Hello&body=Hello Anshul,">
+										<a href="mailto:anshul.yadv22@gmail.com?subject=Hello&body=Hello Anshul,">
 											anshul.yadv22@gmail.com
 										</a>
 									</motion.p>
 									{/* icons */}
 									<div className="flex justify-center items-center space-x-4">
 										<motion.a
-											href="mailto:ay839990@gmail.com?subject=Hello&body=Hello Anshul,"
+											href="mailto:anshul.yadv22@gmail.com?subject=Hello&body=Hello Anshul,"
 											className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
 											initial={{ y: 40, opacity: 0 }}
 											whileInView={{ y: 0, opacity: 1 }}

@@ -7,31 +7,30 @@
         "This project showcases my expertise in full-stack web development and my ability to build a feature-rich, user-friendly platform. The application is designed to mimic the core functionalities of Airbnb while maintaining a modern and responsive interface. Its robust design ensures seamless user interaction and optimal performance across devices, making it a practical and scalable solution."
       ],
       
-      "year": "2023",
+      "year": "2024",
       "preview": "https://ease-nest.netlify.app/",
       "code": "https://github.com/Anshu10101/Airbnb-full-stack-",
       "images": [
-        "/projects/trivia/trivia1.png",
-        "/projects/trivia/trivia2.png",
-        "/projects/trivia/trivia3.png"
+        "/projects/Airbnb/Airbnb1.png",
+        "/projects/Airbnb/Airbnb2.png",
+        "/projects/Airbnb/Airbnb3.png"
       ],
       "tech": ["ReactJs", "NodeJs", "ExpressJs", "MongoDB", "TailwindCSS", "JWT", "Cloudinary", "Google cloud"],
-      "slug": "trivia"
+      "slug": "Airbnb"
     },
     {
-      "title": "E-Learning Platform",
+      "title": "AI Powered Multi PDF Chatbot",
       "desc": [
-        "An E-learning platform designed for students in grades 9-12, focusing on JEE and NEET preparation. Built collaboratively by a team of 3, the platform provides dynamic content, interactive practice tests, and an optimized learning experience. It supports real-time updates for seamless navigation and serves 500+ active users on Mahatma Hansraj School's local servers in Jhansi.",
-        "This project reflects my commitment to creating impactful educational solutions using modern web technologies. Developed with PHP, MySQL, Apache, Ajax, jQuery, and Bootstrap, the platform ensures scalability and reliability. The user-friendly interface and tailored features make it an effective tool for students, highlighting my ability to design robust and student-focused applications."
+        " The Multi-PDF Chat AI Agent is a Streamlit app that lets users interact with multiple PDFs using AI. It extracts text, processes queries, and delivers accurate responses powered by Google Gemini Pro and FAISS for efficient document-based Q&A.."
       ],
-      "year": "2020",
+      "year": "2025",
       "images": [
-        "/projects/saku-senyum/saku-senyum1.png"
+        "/projects/AI_chatbot/ELP.png", "/projects/AI_chatbot/LLMAgents.png"
       ],
       "tech": [
-        "PHP", "Laravel", "Bootstrap", "MySQL", "jQuery", "Apache", "Ajax"
+        "Streamlit", "Google Gemini AI", "Python", "LangChain", "PyPDF2", "FAISS", "Python dotenv"
       ], 
-      "slug": "saku-senyum"
+      "slug": "AI_chatbot"
     },
     {
       "title": "React Realtime Chat",
@@ -39,14 +38,11 @@
         "An ambitious project built with the MERN stack, focusing on real-time communication. This chat application supports JWT authentication, real-time messaging using Socket.io, and online user status tracking with React Context. TailwindCSS and Daisy UI are used for a modern and responsive design.",
         "This project allowed me to explore advanced web development concepts such as global state management with Zustand, server and client-side error handling, and efficient deployment strategies. It provided valuable experience in building a feature-rich, scalable real-time application."
       ],
-      "year": "2023",
+      "year": "2024",
       "preview": "",
       "code": "",
       "images": [
-        "/projects/chat/chat1.png",
-        "/projects/chat/chat2.png",
-        "/projects/chat/chat3.png",
-        "/projects/chat/chat4.png"
+        "/projects/chat/chat1.png"
       ],
       "tech": ["JavaScript", "React", "React Router", "Firebase", "Daisy UI"],
       "slug": "react-chat"
@@ -60,9 +56,9 @@
 
         "The Todo List keeps tasks in check with intuitive task management capabilities, ensuring you never miss a beat. The note-taking feature provides a hassle-free way to jot down ideas and crucial information, accessible whenever inspiration strikes. Additionally, our robust expense tracker simplifies financial management by recording and categorizing expenses, delivering insightful spending analysis."
       ],
-      "year": "2023",
+      "year": "2024",
       "preview": "https://react-tools-two.vercel.app/",
-      "code": "https://github.com/Anshu10101/Airbnb-full-stack-",
+      "code": "https://github.com/Anshu10101/React-Tools",
       "images": [
         "/projects/tools/tools.png",
         "/projects/tools/tools1.png",
@@ -83,7 +79,7 @@
         "A cutting-edge project leveraging computer vision and YOLO object detection to analyze football matches. The system tracks players, referees, and the ball, enabling team identification, ball control tracking, and player movement analysis for comprehensive match insights.",
         "This project integrates advanced techniques such as K-means clustering, optical flow, and perspective transformation to deliver real-world sports analytics. It provides crucial data on speed, distance, and team performance, making it highly relevant for sports management and coaching."
       ],
-      "year": "2023",
+      "year": "2025",
       "code": "https://github.com/Anshu10101/Football-Analysis-System",
       "images": ["/projects/lptk/lptk1.png", "/projects/lptk/lptk2.png"],
       "tech": [
@@ -98,22 +94,23 @@
         "Matplotlib",
         "Scikit-learn"
       ],
-      "slug": "lptk-cup-2023"
+      "slug": "FAS"
     }, 
     {
-      "title": "Coming Soon",
+      "title": "TraviAI - AI Powered Travel Companion",
       "desc": [
-        ""],
-      "year": "",
-      "preview": "",
-      "code": "",
+        "TraviAI is an AI-based travel planning application designed to make trip planning easier and more efficient. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities."],
+      "year": "2025",
+      "preview": "https://travi-ai-ai-powered-travel-companion.vercel.app/",
+      "code": "https://github.com/Anshu10101/TraviAI---AI-Powered-Travel-Companion",
       "images": [
-        ""
+        "/projects/Travel/ino1.png", "/projects/Travel/ino2.png"
+        
       ],
       "tech": [
-        ""
+        "React", "TailwindCSS", "Google Cloud", "Gemini AI", "Firebase", "Auth0", "React Hot Toast"
       ],
-      "slug": "nu-ino-website"
+      "slug": "Travel"
     }
   ]
 }
