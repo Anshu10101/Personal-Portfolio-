@@ -24,6 +24,7 @@
         " The Multi-PDF Chat AI Agent is a Streamlit app that lets users interact with multiple PDFs using AI. It extracts text, processes queries, and delivers accurate responses powered by Google Gemini Pro and FAISS for efficient document-based Q&A.."
       ],
       "year": "2025",
+      "code": "https://github.com/Anshu10101/AI-Powered-Multi-PDF-Chatbot",
       "images": [
         "/projects/AI_chatbot/ELP.png", "/projects/AI_chatbot/LLMAgents.png"
       ],
