@@ -112,6 +112,24 @@
         "React", "TailwindCSS", "Google Cloud", "Gemini AI", "Firebase", "Auth0", "React Hot Toast"
       ],
       "slug": "Travel"
+    },
+    {
+      "title": "DripiFY - Fashion E-commerce Platform",
+      "desc": [
+        "DripiFY is a cutting-edge e-commerce platform designed to revolutionize the fashion industry. This project showcases my expertise in full-stack web development and my ability to create a feature-rich, user-friendly platform. The application is built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and styled using Tailwind CSS and Shadcn.",
+        "DripiFY offers a seamless shopping experience with advanced features such as product filtering, sorting, and search functionality. Users can create accounts, add products to their cart, and complete secure transactions. The platform also supports admin functionalities for managing products, orders, and user accounts."
+      ],
+      "year": "2024",
+      "preview": "https://dripify-fashion-e-commerce.vercel.app/",
+      "code": "https://github.com/Anshu10101/DripiFY-Fashion-E-Commerce",
+      "images": [
+        "/projects/eCommerce/e-com.png"
+        
+      ],
+      "tech": [
+        "ReactJS", "NextJS", "TailwindCSS"
+      ],
+      "slug": "eCommerce"
     }
   ]
 }

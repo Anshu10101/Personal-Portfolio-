@@ -5,6 +5,7 @@ import ReactChatMain from "@/public/projects/main-project/react-chat.png";
 import ReactTools from "@/public/projects/main-project/react-tools.png";
 import FAS from "@/public/projects/FAS/lptk1.png";
 import Travel from "@/public/projects/Travel/ino1.png";
+import eCommerce from "@/public/projects/eCommerce/e-com.png";
 
 export const projects = [
 	{
@@ -61,4 +62,13 @@ export const projects = [
 		slug: "Travel",
 		category: 1,
 	},
+	{
+		title: "DripiFY - Fashion E-Commerce Platform",
+		desc: "This is a fashion e-commerce platform that helps users find trendy clothing with personalized recommendations and a smooth shopping experience.",
+		year: "2025",
+		tech: "React, NextJS, TailwindCSS",
+		bg: eCommerce,
+		slug: "eCommerce",
+		category: 1,
+	}
 ];
