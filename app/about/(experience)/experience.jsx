@@ -4,6 +4,33 @@ export default function Experience() {
 			<div className="relative after:absolute after:inset-y-2 after:w-1 after:bg-gray-700 after:left-[-4px] md:after:left-1 lg:after:left-2 xl:after:left-3 grid gap-8 md:gap-12 pl-6 md:pl-8">
 			<div className="grid gap-4 relative">
 					<div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
+					<div className="font-medium text-lg"> March 2025 - Present</div>
+					<div>
+						<h3 className="font-semibold text-xl text-black">
+						Intern at TheGoodGameTheory
+						</h3>
+						<h4 className=" font-light text-md mb-4">
+						ReactJS Developer
+						</h4>
+						<p className="text-justify">
+						Contributed to a large-scale React.js project, collaborating with cross-functional teams to develop and optimize dynamic web applications. Implemented key features, improved performance, and enhanced user experience, showcasing strong problem-solving, coding, and teamwork skills in a real-world development environment.
+						</p>
+
+						<div className="flex flex-wrap gap-2 mt-4 text-sm">
+							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
+								ReactJS
+							</div>
+							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
+								NextJS
+							</div>
+							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
+								PhaserJS
+							</div>
+						</div>
+					</div>
+				</div>
+			<div className="grid gap-4 relative">
+					<div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
 					<div className="font-medium text-lg">February 2025 - Present</div>
 					<div>
 						<h3 className="font-semibold text-xl text-black">
@@ -36,10 +63,10 @@ export default function Experience() {
 				</div>
 			<div className="grid gap-4 relative">
 					<div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
-					<div className="font-medium text-lg"> 2025 February - 2025 April</div>
+					<div className="font-medium text-lg">February 2025 - 2025 April</div>
 					<div>
 						<h3 className="font-semibold text-xl text-black">
-						Intern at UNIFIED MENTORS
+						Intern at Unified Mentors
 						</h3>
 						<h4 className=" font-light text-md mb-4">
 						Web Applications Engineering Intern
@@ -108,13 +135,13 @@ export default function Experience() {
 				</div>
 				<div className="grid gap-4 relative">
 					<div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
-					<div className="font-medium text-lg">2022 - 2023</div>
+					<div className="font-medium text-lg">August 2021 - August 2022</div>
 					<div>
 						<h3 className="font-semibold text-xl text-black">
 						National Institute of Electronics & Information Technology
 						</h3>
 						<h4 className=" font-light text-md mb-4">
-							Business ready programmer | IOT
+							Business ready programmer | IOT | &apos;O&apos; level Certification
 						</h4>
 						<p className="text-justify">
 							Studied at National Institute of Electronics & Information Technology, 
@@ -133,40 +160,6 @@ export default function Experience() {
 							</div>
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
 								Problem Solving
-							</div>
-						</div>
-					</div>
-				</div>
-				<div className="grid gap-4 relative">
-					<div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
-					<div className="font-medium text-lg">2021 - Present</div>
-					<div>
-						<h3 className="font-semibold text-xl text-black">
-							Self-Employed
-						</h3>
-						<h4 className=" font-light text-md mb-4">
-							Web Developer | Freelance
-						</h4>
-						<p className="text-justify">
-							Specialized in crafting innovative solutions using
-							React, Next.js and Node js, enhancing client satisfaction
-							and project efficiency. Contributed expertise in
-							both frontend and backend development during
-							collaborative team projects, leading to successful
-							project completions
-						</p>
-						<div className="flex flex-wrap gap-2 mt-4 text-sm">
-							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								React
-							</div>
-							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								Next.js
-							</div>
-							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								Laravel
-							</div>
-							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								MySql
 							</div>
 						</div>
 					</div>
